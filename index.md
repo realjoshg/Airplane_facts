@@ -18,5 +18,5 @@ was a british military aircraft under ww2
 ![supermarine spitfire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ray_Flying_Legends_2005-1.jpg/640px-Ray_Flying_Legends_2005-1.jpg)
 
 ## P51 Mustang
-was the american miletary aircraft under ww2
+was the american military aircraft under ww2
 ![P51 Mustang](https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg)
