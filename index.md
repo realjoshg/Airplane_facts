@@ -14,7 +14,7 @@ it can takeoff VTOL
 ![f 35](https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg)
 
 ## supermarine spitfire
-was a british miletary aircraft under ww2
+was a british military aircraft under ww2
 ![supermarine spitfire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ray_Flying_Legends_2005-1.jpg/640px-Ray_Flying_Legends_2005-1.jpg)
 
 ## P51 Mustang
