@@ -6,13 +6,9 @@ The biggest passenger airplane is A380.
 ## boeing 747
 is the second biggest passenger airplane
 ![Boing 747](https://upload.wikimedia.org/wikipedia/commons/4/40/Pan_Am_Boeing_747-121_N732PA_Bidini.jpg)
-
-## Lockheed Martin F-35 Lightning II
+## sukhoi su-57
 is the newest military aircraft
-
-it can takeoff VTOL
-![f 35](https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg)
-
+![sukhoi su-57](https://upload.wikimedia.org/wikipedia/commons/e/e6/Су-57.jpg)
 ## supermarine spitfire
 was a british military aircraft under ww2
 ![supermarine spitfire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ray_Flying_Legends_2005-1.jpg/640px-Ray_Flying_Legends_2005-1.jpg)
